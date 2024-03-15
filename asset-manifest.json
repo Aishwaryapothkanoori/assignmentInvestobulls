@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignmentInvestobulls/static/css/main.f855e6bc.css",
+    "main.js": "/assignmentInvestobulls/static/js/main.2b5604ec.js",
+    "static/js/787.1937f22b.chunk.js": "/assignmentInvestobulls/static/js/787.1937f22b.chunk.js",
+    "index.html": "/assignmentInvestobulls/index.html",
+    "main.f855e6bc.css.map": "/assignmentInvestobulls/static/css/main.f855e6bc.css.map",
+    "main.2b5604ec.js.map": "/assignmentInvestobulls/static/js/main.2b5604ec.js.map",
+    "787.1937f22b.chunk.js.map": "/assignmentInvestobulls/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2b5604ec.js"
+  ]
+}
